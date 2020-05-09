@@ -1,0 +1,10 @@
+	"inspect": ["look", "check", "read", "examine"],
+	"move": ["shift", "open", "push", "pull", "turn", "twist", "remove", "slide"],
+	"go": ["enter", "walk", "run", "sprint", "sneak", "creep"],
+	"take": ["grab", "pocket", "pick", "pickup", "snatch"],
+    	"put": ["place", "set"],
+    	"wear": ["equip"],
+    	"inventory": ["inv", "pack", "backpack", "bag", "pocket", "pockets", "storage"],
+    	"consume": ["drink", "eat", "swallow"]
+
+
