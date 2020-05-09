@@ -1,5 +1,5 @@
 # Blackwater
-A python based text adventure game. I designed and developed this game as part of a three person team for a final module project.
+A python **VERSION 2.7** based text adventure game. I designed and developed this game as part of a three person team for a final module project.
 
 Game description
 
