@@ -25,7 +25,7 @@ The parser checks through the lists of commands and tries to find a match.
 
 Each command has a list of lambda functions attached to it which are run in order if the command is matched to the input.
 
-If there is no match, the parser tries to figure out what you were saying so it gan give a more relevant error.
+If there is no match, the parser tries to figure out what you were saying so it can give a more relevant error.
 
 It looks at whether the first word was a recognised verb and then if the subsequent words are recognised objects.
 
